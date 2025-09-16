@@ -5,7 +5,7 @@ Aspiring SOC Specialist with a background in B2B Customer Service and Sales, tra
 💻 **Skills**:
 🎓 **Certs**:
 📊 **Tools**:
----
+
 
 ## 🔍 Projects & Labs
 
