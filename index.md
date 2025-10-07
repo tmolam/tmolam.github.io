@@ -1,6 +1,6 @@
 [Home](https://tmolam.github.io/)
 [Certifications and Training](https://tmolam.github.io/Certifications-Training/)
-[Tools and Projects]
+[Tools and Projects](https://tmolam.github.io/Tools-Projects/)
 
 # > Hi, I'm Teemu
 
