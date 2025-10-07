@@ -12,6 +12,6 @@ Aspiring SOC Specialist with a background in B2B Customer Service and Sales, tra
 ## 🔍 Projects & Labs
 A simple program for calculating running pace based on the distance and elapsed time: [Pace Calculator](https://tmolam.github.io/tahtilaskuri/tahtilaskuri.html)
 
-## 📂 [Certifications & Training](https://tmolam.github.io/certifications/)
+## 📂 [Certifications & Training](https://tmolam.github.io/Certifications-Training/)
 
 ## 🔗 Links
